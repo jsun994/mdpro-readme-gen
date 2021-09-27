@@ -41,12 +41,15 @@ const questions = [
         message: 'Please choose a license:',
         choices: [
             'Apache',
-            'Cloud Native Computing Foundation',
+            'BSD',
+            'EPL',
             'GNU',
-            'NPM packages',
-            'OpenBSD',
-            'Rust',
-            'WordPress'
+            'IPL',
+            'ISC',
+            'MIT',
+            'MPL',
+            'Unlicense',
+            'WTFPL'
         ]
     },
     {
