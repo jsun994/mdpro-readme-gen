@@ -36,9 +36,18 @@ const questions = [
         message: 'Please enter any test instructions:'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'Please choose a license:'
+        message: 'Please choose a license:',
+        choices: [
+            'Apache',
+            'Cloud Native Computing Foundation',
+            'GNU',
+            'NPM packages',
+            'OpenBSD',
+            'Rust',
+            'WordPress'
+        ]
     },
     {
         type: 'input',

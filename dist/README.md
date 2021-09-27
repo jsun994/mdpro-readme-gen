@@ -1,6 +1,6 @@
-# etset
+# fff
   ## Description
-  etst
+  fff
   <!-- TABLE OF CONTENTS -->
   <details open="open">
     <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
@@ -8,28 +8,28 @@
       <li><a href="#description">Description</a></li>
       <li><a href="#installation">Installation</a></li>
       <li><a href="#usage">Usage</a></li>
-      <li><a href="#contribution">Contribution</a></li>
-      <li><a href="#test">Test</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#tests">Tests</a></li>
       <li><a href="#license">License</a></li>
       <li><a href="#questions">Questions</a></li>
     </ol>
   </details>
 
   ## Installation
-  To get a local copy up and running follow these simple steps.
+  _To get a local copy up and running follow these simple steps._
 
-  This is an example of software you need and how to install them:
+  _This is an example of software you need and how to install them:_
   <br/>
 
-    setse
+    fff
   
   ## Usage
   _For more examples, please consider:_
   <br/>
 
-    etset
+    fff
 
-  ## Contribution
+  ## Contributing
   _For Example:_
 
     Fork the Project
@@ -45,18 +45,18 @@
   _Additionally:_
   <br/>
 
-    stse
+    fff
 
-  ## Test
-  Instructions:
+  ## Tests
+  _Instructions:_
   <br/>
 
-    tset
+    fff
 
   ## License
-  set
+  Apache
 
   ## Questions
-  Username: [est](https://github.com/est)
+  Username: [fff](https://github.com/fff)
 
-  Reach me at: set
+  Reach me at: fff
