@@ -30,9 +30,9 @@ function generateMarkdown(data) {
   </details>
 
   ## Installation
-  To get a local copy up and running follow these simple steps.
+  _To get a local copy up and running follow these simple steps._
 
-  This is an example of software you need and how to install them:
+  _This is an example of software you need and how to install them:_
   <br/>
 
     ${data.installation}
@@ -56,13 +56,13 @@ function generateMarkdown(data) {
 
     Open a Pull Request
   
-  Additionally:
+  _Additionally:_
   <br/>
 
     ${data.contribution}
 
   ## Test
-  Instructions:
+  _Instructions:_
   <br/>
 
     ${data.test}

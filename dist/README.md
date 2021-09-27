@@ -1,6 +1,6 @@
-# esgtsae
+# etset
   ## Description
-  est
+  etst
   <!-- TABLE OF CONTENTS -->
   <details open="open">
     <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
@@ -18,19 +18,19 @@
   ## Installation
   To get a local copy up and running follow these simple steps.
 
-  This is an example of how to list things you need to use the software and how to install them:
+  This is an example of software you need and how to install them:
   <br/>
 
-    asetaestse
+    setse
   
   ## Usage
   _For more examples, please consider:_
   <br/>
 
-    atse
+    etset
 
   ## Contribution
-  For Example:
+  _For Example:_
 
     Fork the Project
 
@@ -42,21 +42,21 @@
 
     Open a Pull Request
   
-  Additionally:
+  _Additionally:_
   <br/>
 
-    t
+    stse
 
   ## Test
   Instructions:
   <br/>
 
-    saet
+    tset
 
   ## License
-  et
+  set
 
   ## Questions
-  Username: [jsun994](https://github.com/jsun994)
+  Username: [est](https://github.com/est)
 
-  Reach me at: jaysun054@gmail.com
+  Reach me at: set
