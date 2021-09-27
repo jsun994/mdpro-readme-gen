@@ -57,10 +57,16 @@ function generateMarkdown(data) {
 
     Open a Pull Request
   
-  Additionally: ${data.contribution}
+  Additionally:
+  <br/>
+
+    ${data.contribution}
 
   ## Test
-  ${data.test}
+  Instructions:
+  <br/>
+  
+    ${data.test}
 
   ## License
   ${data.license}
