@@ -42,9 +42,7 @@ const questions = [
         choices: [
             'Apache',
             'BSD',
-            'EPL',
             'GNU',
-            'IPL',
             'ISC',
             'MIT',
             'MPL',

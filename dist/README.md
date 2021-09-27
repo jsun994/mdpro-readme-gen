@@ -1,5 +1,5 @@
 # 
-  ![badge](https://img.shields.io/badge/license-Boost-blue.svg)
+  ![badge](https://img.shields.io/badge/license-WTFPL-blue.svg)
   ## Description
   
   <!-- TABLE OF CONTENTS -->
@@ -55,7 +55,7 @@
     
 
   ## License
-  Boost
+  WTFPL
 
   ## Questions
   Username: [](https://github.com/)
