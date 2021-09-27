@@ -25,15 +25,14 @@ function generateMarkdown(data) {
       <li><a href="#contribution">Contribution</a></li>
       <li><a href="#test">Test</a></li>
       <li><a href="#license">License</a></li>
-      <li><a href="#github">Github</a></li>
-      <li><a href="#email">Email</a></li>
+      <li><a href="#questions">Questions</a></li>
     </ol>
   </details>
 
   ## Installation
   To get a local copy up and running follow these simple steps.
 
-  This is an example of how to list things you need to use the software and how to install them:
+  This is an example of software you need and how to install them:
   <br/>
 
     ${data.installation}
@@ -45,7 +44,7 @@ function generateMarkdown(data) {
     ${data.usage}
 
   ## Contribution
-  For Example:
+  _For Example:_
 
     Fork the Project
 
@@ -65,17 +64,16 @@ function generateMarkdown(data) {
   ## Test
   Instructions:
   <br/>
-  
+
     ${data.test}
 
   ## License
   ${data.license}
 
-  ## Github
-  Project: ${data.github}
+  ## Questions
+  Username: [${data.github}](https://github.com/${data.github})
 
-  ## Email
-  Email me: ${data.email}
+  Reach me at: ${data.email}
 `;
 }
 
