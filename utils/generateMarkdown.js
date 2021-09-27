@@ -23,7 +23,7 @@ function generateMarkdown(data) {
       <li><a href="#installation">Installation</a></li>
       <li><a href="#usage">Usage</a></li>
       <li><a href="#contribution">Contribution</a></li>
-      <li><a href="#test">Test</a></li>
+      <li><a href="#tests">Tests</a></li>
       <li><a href="#license">License</a></li>
       <li><a href="#questions">Questions</a></li>
     </ol>
@@ -61,7 +61,7 @@ function generateMarkdown(data) {
 
     ${data.contribution}
 
-  ## Test
+  ## Tests
   _Instructions:_
   <br/>
 
