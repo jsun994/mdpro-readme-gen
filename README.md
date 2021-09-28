@@ -1,4 +1,11 @@
 # Professional README Generator
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -120,3 +127,14 @@ See the [open issues](https://github.com/jsun994/mdpro-readme-gen/issues) for a 
 Jay Sun - jaysun054@gmail.com
 
 Project Link: [https://github.com/jsun994/mdpro-readme-gen]
+
+[contributors-shield]: https://img.shields.io/github/contributors/jsun994/mdpro-readme-gen.svg?style=for-the-badge
+[contributors-url]: https://github.com/jsun994/mdpro-readme-gen/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jsun994/mdpro-readme-gen.svg?style=for-the-badge
+[forks-url]: https://github.com/jsun994/mdpro-readme-gen/network/members
+[stars-shield]: https://img.shields.io/github/stars/jsun994/mdpro-readme-gen.svg?style=for-the-badge
+[stars-url]: https://github.com/jsun994/mdpro-readme-gen/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jsun994/mdpro-readme-gen.svg?style=for-the-badge
+[issues-url]: https://github.com/jsun994/mdpro-readme-gen/issues
+[license-shield]: https://img.shields.io/github/license/jsun994/mdpro-readme-gen.svg?style=for-the-badge
+[license-url]: https://github.com/jsun994/mdpro-readme-gen/blob/master/LICENSE.txt
