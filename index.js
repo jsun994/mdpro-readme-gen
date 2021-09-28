@@ -8,12 +8,28 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'Please enter a project title:'
+        message: 'Please enter a project title:',
+        validate: titleInput => {
+            if (titleInput) {
+              return true;
+            } else {
+              console.log('Please enter a title! (Required)');
+              return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Please enter a description:'
+        message: 'Please enter a description:',
+        validate: descInput => {
+            if (descInput) {
+              return true;
+            } else {
+              console.log('Please enter a description! (Required)');
+              return false;
+            }
+        }
     },
     {
         type: 'input',

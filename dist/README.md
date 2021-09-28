@@ -1,7 +1,7 @@
-# 
-  ![badge](https://img.shields.io/badge/license-MIT-green.svg)
+#    
+  ![badge](https://img.shields.io/badge/license-AGPLv3-green.svg)
   ## Description
-  
+     
   <!-- TABLE OF CONTENTS -->
   <details open="open">
     <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
@@ -56,7 +56,7 @@
 
   ## License
   
-  [MIT](https://choosealicense.com/licenses/mit/)
+  [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
   
 
   ## Questions
