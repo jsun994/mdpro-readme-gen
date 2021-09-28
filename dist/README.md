@@ -1,5 +1,5 @@
 # 
-  ![badge](https://img.shields.io/badge/license-AGPLv3-green.svg)
+  ![badge](https://img.shields.io/badge/license-Apache-green.svg)
   ## Description
   
   <!-- TABLE OF CONTENTS -->
@@ -55,8 +55,8 @@
     
 
   ## License
-  AGPLv3
-  https://choosealicense.com/licenses/agpl-3.0/
+  
+  [Apache](https://choosealicense.com/licenses/apache-2.0/)
   
 
   ## Questions
