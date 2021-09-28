@@ -1,7 +1,7 @@
 # TITLE
   ![badge](https://img.shields.io/badge/license-MIT-green.svg)
   ## Description
-  test
+  description
   <!-- TABLE OF CONTENTS -->
   <details open="open">
     <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
@@ -22,7 +22,7 @@
   _This is an example of software you need and how to install them:_
   <br/>
 
-    na
+    none
   
   ## Usage
   _For more examples, please consider:_
@@ -52,12 +52,11 @@
   _Instructions:_
   <br/>
 
-    none
+    na
 
   ## License
   
   Distributed under the [MIT](https://choosealicense.com/licenses/mit/) (click for more information) License.
-  
 
   ## Questions
   Github Username: [jsun994](https://github.com/jsun994)
