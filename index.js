@@ -84,7 +84,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         }
-        console.log('README created!');
+        console.log('README generated!');
     });
 }
 
