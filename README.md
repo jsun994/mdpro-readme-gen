@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jsun994/mdpro-readme-gen">
-    <img src="./screenshots/0.png" alt="Logo" width="80" height="80">
+    <img src="./screenshots/logo0.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Professional README Generator</h3>
