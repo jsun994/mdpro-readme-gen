@@ -40,14 +40,14 @@ const questions = [
         name: 'license',
         message: 'Please choose a license:',
         choices: [
-            'Apache',
-            'BSD',
-            'GNU',
-            'ISC',
-            'MIT',
+            'AGPLv3',
+            'GPLv3',
+            'LGPLv3',
             'MPL',
-            'Unlicense',
-            'WTFPL'
+            'Apache',
+            'MIT',
+            'Boost',
+            'Unlicense'
         ]
     },
     {

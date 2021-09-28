@@ -1,5 +1,5 @@
 # 
-  ![badge](https://img.shields.io/badge/license-WTFPL-blue.svg)
+  ![badge](https://img.shields.io/badge/license-AGPLv3-green.svg)
   ## Description
   
   <!-- TABLE OF CONTENTS -->
@@ -55,7 +55,9 @@
     
 
   ## License
-  WTFPL
+  AGPLv3
+  https://choosealicense.com/licenses/agpl-3.0/
+  
 
   ## Questions
   Username: [](https://github.com/)
