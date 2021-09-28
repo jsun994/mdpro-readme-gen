@@ -6,8 +6,6 @@
     <img src="./screenshots/logo0.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Professional README Generator</h3>
-
   <p align="center">
   A professional README generator for developers.
     <br />
@@ -98,7 +96,6 @@ This is an example of how to list things you need to use the software and how to
     THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
     WHEN I click on the links in the Table of Contents
     THEN I am taken to the corresponding section of the README
-
 
 ![ss1](./screenshots/1.png)
 ![ss2](./screenshots/2.png)
