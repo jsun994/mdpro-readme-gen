@@ -126,8 +126,6 @@ See the [open issues](https://github.com/jsun994/mdpro-readme-gen/issues) for a 
 
 Jay Sun - jaysun054@gmail.com
 
-Project Link: [https://github.com/jsun994/mdpro-readme-gen]
-
 [contributors-shield]: https://img.shields.io/github/contributors/jsun994/mdpro-readme-gen.svg?style=for-the-badge
 [contributors-url]: https://github.com/jsun994/mdpro-readme-gen/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jsun994/mdpro-readme-gen.svg?style=for-the-badge
