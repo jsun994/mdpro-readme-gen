@@ -1,5 +1,5 @@
 # 
-  ![badge](https://img.shields.io/badge/license-Apache-green.svg)
+  ![badge](https://img.shields.io/badge/license-MIT-green.svg)
   ## Description
   
   <!-- TABLE OF CONTENTS -->
@@ -56,7 +56,7 @@
 
   ## License
   
-  [Apache](https://choosealicense.com/licenses/apache-2.0/)
+  [MIT](https://choosealicense.com/licenses/mit/)
   
 
   ## Questions
