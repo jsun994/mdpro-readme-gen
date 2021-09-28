@@ -28,7 +28,7 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 function renderLicenseSection(license) {
   return `
-  [${license}](${renderLicenseLink(license)})
+  Distributed under the [${license}](${renderLicenseLink(license)}) (click for more information) License.
   `;
 }
 
@@ -79,9 +79,9 @@ function generateMarkdown(data) {
 
     Open a Pull Request
   
-  _Additionally:_
+  _Information:_
   <br/>
-
+  
     ${data.contribution}
 
   ## Tests
@@ -94,7 +94,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ## Questions
-  Username: [${data.github}](https://github.com/${data.github})
+  Github Username: [${data.github}](https://github.com/${data.github})
 
   Reach me at: ${data.email}
 `;
