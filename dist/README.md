@@ -1,7 +1,7 @@
-# TITLE
+# Project
   ![badge](https://img.shields.io/badge/license-MIT-green.svg)
   ## Description
-  description
+  this is a demo
   <!-- TABLE OF CONTENTS -->
   <details open="open">
     <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
@@ -28,7 +28,7 @@
   _For more examples, please consider:_
   <br/>
 
-    none
+    demo
 
   ## Contributing
   _For Example:_
@@ -46,7 +46,7 @@
   _Information:_
   <br/>
   
-    na
+    guidelines
 
   ## Tests
   _Instructions:_
@@ -57,6 +57,7 @@
   ## License
   
   Distributed under the [MIT](https://choosealicense.com/licenses/mit/) (click for more information) License.
+  
 
   ## Questions
   Github Username: [jsun994](https://github.com/jsun994)
