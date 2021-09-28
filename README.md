@@ -77,7 +77,6 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -97,9 +96,9 @@ This is an example of how to list things you need to use the software and how to
     WHEN I click on the links in the Table of Contents
     THEN I am taken to the corresponding section of the README
 
-![ss1](./screenshots/1.png)
-![ss2](./screenshots/2.png)
-![ss3](./screenshots/3.png)
+![ss1](./screenshots/00.png)
+![ss2](./screenshots/11.png)
+![ss3](./screenshots/22.png)
 
 <!-- ROADMAP -->
 ## Roadmap
