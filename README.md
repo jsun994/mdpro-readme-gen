@@ -55,7 +55,7 @@
 ## About The Project
 
 ![ss0](./screenshots/0.png)
-[![video](https://img.youtube.com/vi/ri8D5eQ9RS4/0.jpg)](https://www.youtube.com/watch?v=ri8D5eQ9RS4)
+[![video](https://img.youtube.com/vi/BhBg85jkSPA/0.jpg)](https://www.youtube.com/watch?v=BhBg85jkSPA)
 
 ### Built With
 
